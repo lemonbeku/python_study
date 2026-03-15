@@ -181,7 +181,7 @@ How to Execute
 ```python
 python program.py
 ```
-Python will read the instructions and execute them sequentially.
+Python will read the instructions and execute them sequential.
 
 # References
 [[Python Michigan]]
