@@ -1,8 +1,3 @@
-2026-03-1511:48
-Status: 
-Tags: [[Python]] [[python elements]]
-Full Note
-
 # Elements of the Python Language
 ## Interactive Python
 Python can run interactively through the terminal or command line.
